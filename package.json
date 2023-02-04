@@ -1,0 +1,14 @@
+{
+  "name": "nexa-pool",
+  "version": "1.0.0",
+  "description": "nexa pool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hainakus",
+  "license": "ISC",
+  "dependencies": {
+    "stratum-pool": "git+https://github.com/hainakus/nexa-stratum-pool.git"
+  }
+}
